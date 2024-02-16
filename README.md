@@ -16,6 +16,7 @@ ___
 **📋 Descrição do Programa**
 
 Programa em Python que realiza web scraping de vagas de emprego na plataforma do LinkedIn e armazena esses dados em um dataset para análise.
+
 ___
 
 **📋 Versão Atual do Programa**
@@ -37,9 +38,7 @@ ___
 
 **📋 Como Funciona o Job Scan?**
 
-Para utilizar o Job Scan, siga os passos abaixo:
-
-**🎯 Realizando login:**
+🎯 Para utilizar o Job Scan, siga os passos abaixo:
 
 1° - Abra o arquivo "user.txt" e adicione um e-mail que já esteja cadastrado na plataforma;
 
