@@ -1,4 +1,10 @@
-# Job Scan Data Science
+<div align="center">
+  <h1>
+    <strong>Job Scan Data Science</strong>
+  </h1>
+  <img src="https://github.com/irdsb/job_scan_datascience_opensource/blob/main/IMG.jpg" width="200px" height="200px">
+</div>
+
 ___
 
 **O que é o Job Scan ❓**
