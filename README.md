@@ -67,7 +67,7 @@ ___
 
 ___
 
-**Observção**
+**Observações**
 
 - Todo o processo é demorado e pode levar vários minutos ou até mesmo várias horas para que seja realizado o scrpaing de todas as vagas capturadas pelo programa.
 
