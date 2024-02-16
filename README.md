@@ -69,9 +69,9 @@ ___
 
 **Observações**
 
-- Todo o processo é demorado e pode levar vários minutos ou até mesmo várias horas para que seja realizado o scrpaing de todas as vagas capturadas pelo programa.
+- Todo o processo é demorado e pode levar vários minutos ou até mesmo várias horas para que seja realizado o scraping de todas as vagas capturadas pelo programa.
 
-- Para utilizar o programa do jeito que está (somente sendo necessário adicionar as credenciais de acesso), instale o navegador Edge da Microsoft na máquina que será executado o script.
+- Para utilizar o programa do jeito que está (somente sendo necessário adicionar as credenciais de acesso),  carregue as bibliotecas e instale o navegador Edge da Microsoft na máquina que será executado o script.
 
 😀 Estarei trabalhando neste projeto, então novas versões com melhorias e correções estarão sendo lançadas periodicamente!
 
