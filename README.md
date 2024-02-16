@@ -76,6 +76,3 @@ ___
 😀 Estarei trabalhando neste projeto, então novas versões com melhorias e correções estarão sendo lançadas periodicamente!
 
 🖖 Obrigado!
-
-___
-
