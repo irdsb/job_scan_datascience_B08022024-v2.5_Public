@@ -74,7 +74,7 @@ ___
 
 - Para utilizar o programa do jeito que está (somente sendo necessário adicionar as credenciais de acesso), instale o navegador Edge da Microsoft na máquina que será executado o script.
 
-😀 Estarei trabalhando neste projeto, então novas versõs com melhorias e correções estarão sendo lançadas periodicamente!
+😀 Estarei trabalhando neste projeto, então novas versões com melhorias e correções estarão sendo lançadas periodicamente!
 
 🖖 Obrigado!
 
